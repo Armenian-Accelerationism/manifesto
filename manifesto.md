@@ -1,27 +1,41 @@
-This document is the current state of the manifesto of Armenian Accelerationism, also known as arm/acc or 🇦🇲/acc.
+This document represents the current state of the manifesto for Armenian Accelerationism, also known as arm/acc or 🇦🇲/acc.
 
-A movement inspired by communities like Effective Accelerationism, Silicon Valley, TPOT, and a few others, with notable implicit and explicit leaders such as Beff Jezos (or Guillaume Verdon), Elon Musk, Garry Tan, and many others.
+The movement is inspired by decentralized communities such as Effective Accelerationism (e/acc), TPOT, and others, with notable implicit and explicit leaders like Beff Jezos (Guillaume Verdon), Elon Musk, Garry Tan, and many more.
 
-The overarching goal of arm/acc is improving the Republic of Armenia (or just Armenia), as well as the lives of Armenians outside of it, wherever they are in our huge and spread out diaspora.
+The overarching goal of arm/acc is to improve the Republic of Armenia (or simply Armenia) and the lives of Armenians worldwide, wherever they are in our vast and widely dispersed diaspora.
 
-Our definition of Armenian is similar to how most Americans define what being an American is. We’re a community, a movement fueled with a simple, yet effective ideology. We think what makes you Armenian is what you think and what you do, not necessarily who gave birth to you or where. Writing this out, I realize that this idea first came to me, when my high-school friend Arman went on a long monologue in one of our slightly drunk pub hangouts in Yerevan, after 1 or 2 jugs of beer, either on his own or in the heat of a passionate debate about life, politics, Armenia and the world, he would say this one thing. He’d say that we are the true Armenians, and many of the people around us in our own capital should not have the honor of carrying the name. He called me, the teenager, who’s raging against his family, his country and his religion, a true Armenian, because I cared… 
+Our definition of Armenian is similar to how most Americans define being American. We’re a community, a movement driven by a simple yet effective ideology. What makes you Armenian isn’t just birth or ancestry – it’s alignment with our shared vision, values, and goals. It’s what you think and do, not where you’re from or who your parents are.
 
-I will update this document with thoughts after talking to him once again after a long break, but my current interpretation is that, being Armenian is a CHOICE, in geopolitically complicated and mentally tiring times like this, where existential risk is all over us, and where being hopeful takes deliberate effort, all we can do is believe, share our bright / positive beliefs with our comrades, and build towards a brighter future.
+Writing this out, I realize this idea first came to me years ago, during one of our slightly drunk pub hangouts in Yerevan. My high school friend Arman, after a jug or two of beer, would launch into one of his monologues – sometimes on his own, sometimes in the middle of a heated debate about life, politics, Armenia, and the world. And every time, he’d say the same thing.
+He’d say we were the true Armenians. That many of the people around us, even in our own capital, didn’t deserve the name. And then he’d turn to me – the teenager raging against his family, his country, and his religion – and call me a true Armenian. Because I cared.
 
-Armenian Accelerationism invites everyone to join us explicitly as a community member on X, or implicitly by doing things that are aligned with our goals, regardless of your location, ethnicity, nationality, gender, and political stances. Of course, we hope that citizens of the Republic of Armenia, as well as diasporan Armenians will be our early-adopters, but we still stand by our definition of an Armenian.
+Being Armenian is a choice – in geopolitically complicated and mentally exhausting times like these, where existential risk surrounds us and hope requires deliberate effort, all we can do is believe, share our radically optimistic vision with our comrades, and build toward a better future, together. 
 
-We are radically, delusionally optimistic about the future of Armenia as a state, as well as a community. We see Armenia slowly becoming a major technological hub, and one of our goals is accelerating this. We see efforts from different parties to improve education in Armenia, one of the most notable examples of which is the Generation AI project by FAST Foundation, and the second goal of our’s is accelerating this education. We see a lot of interest, as well as activity in the startup scene of Armenia, and we deeply believe that this is the key to drastically improving the economy, as it’s one of the few ways to generate large amounts of capital seemingly from thin air. We agree that the human capital of Armenia is its most valuable export, and we believe that it should become its most valuable asset for internal development also. There’s a lot of value in studying and working abroad for both the individual and the country, but the value is lost for the country, when the individual decides to leave it, as the country didn’t allow them to flourish. We believe that there’s a lot of work to be done to align the incentives of the country with the members of the community, especially its most passionate, most hard-working, most influential and successful members. We strongly prefer meritocracy over bureaucracy, and see the opposite of this mindset prevailing as one of the major reasons behind large amounts of talent leaving the country for better opportunities abroad.
+Armenian Accelerationism welcomes everyone – explicitly as a community member on X or implicitly by taking actions that align with our goals – regardless of location, ethnicity, nationality, gender, political stance, religion, language, geopolitical identity, diaspora or homeland status, age, or economic background. While we hope that citizens of the Republic of Armenia and diasporan Armenians will be our early adopters, we stand by our definition of what it means to be Armenian.
 
-To try and summarize all of this, we believe that Armenian Accelerationism is a hyperstitious idea that should spread in the Armenian community, as it's good for all of us as individuals, as well as the cities, states, country and the diaspora as larger entities. We want to inspire every Armenian, no matter the age, with a special focus on the younger generation, to build. To believe in themselves and their national identity and use this passion to fuel their execution to build a brighter future for all of us. 
+We are radically – even delusionally – optimistic about Armenia’s future, both as a state and as a community. We see Armenia gradually emerging as a major technological hub, and one of our goals is to accelerate this transformation.
 
-If you want to join the movement, here’s the community on X.
+We recognize ongoing efforts to improve education – with one of the most notable being the Generation AI project by FAST Foundation – and our second goal is to accelerate these educational advancements. 
 
-If you want to show your affiliation with us, you can put arm/acc or 🇦🇲/acc in your X name or bio, pin the community in the highlighted area under your description, tell people about it in your preferred digital or IRL way.
+The Armenian startup scene is growing, and we deeply believe it holds the key to dramatically improving the economy – one of the few ways to generate substantial capital seemingly from thin air.
 
-If you want to support us, follow us on the social media that you use. We currently have our main presence on X, some activity on LinkedIn, and our old community in Discord. If any of you want to support us in an alternative way, e.g. with funding, expertise, connections, please reach out to us <here> or <here>, but to be completely clear, our current goals don’t involve any funding, so it’s not necessary, at least not yet. 
+We agree that Armenia’s greatest export is its human capital, but we believe it must also become the country’s most valuable asset for internal development. There is immense value in studying and working abroad – for both the individual and the country – but this value is lost when individuals leave permanently because Armenia fails to provide the opportunities they need to flourish.
 
-We’re tired of the feeling of upcoming doom, demotivation and general negativity spreading through our community. We believe that every Armenian should be able to call themselves Armenian, and feel a strong sense of pride washing over them, as they pronounce it.
+We believe there is still much work to be done to align the country’s incentives with those of its most passionate, hard-working, influential, and successful members. We strongly prefer meritocracy over bureaucracy and see the dominance of the latter as a major reason why so much talent leaves Armenia in search of better opportunities abroad.
 
-We are also not affiliated with any organization, be it religious, or political, or private, we’re our own movement spread by our original founders, and whoever believes in it enough to join the effort. It’s decentralized, and as open as we can make it.
+To summarize, we see Armenian Accelerationism as a hyperstitious idea that should spread throughout the Armenian community – benefiting individuals, cities, states, the country, and the diaspora as larger entities. We want to inspire every Armenian – no matter their age – but with a special focus on the younger generation, to build. To believe in themselves and their national identity, and to channel that passion into execution, creating a brighter future for all of us.
 
-Join us, let’s build a better Armenia together.
+If you want to show your affiliation with us, you can add arm/acc or 🇦🇲/acc to your social media name or bio, pin the community in the highlighted section of your profile, or spread the word in whatever way feels right – online or in real life.
+
+If you want to support us, follow us on the social media platforms you use. Our main presence is on X, with some activity on LinkedIn and an older community on Discord. If you’d like to support us in other ways – through funding, expertise, or connections – reach out to us. That said, to be completely clear, our current goals don’t involve funding, so while appreciated, it’s not necessary – at least not yet.
+
+We’re tired of the looming sense of doom, demotivation, and negativity spreading through our community. We believe every Armenian should be able to call themselves Armenian and feel a deep, unwavering pride as they say it.
+We are not affiliated with any organization – religious, political, or private. We are our own movement, spread by its original founders and anyone who believes in it enough to join the effort. It is decentralized and as open as we can safely make it.
+
+Join us – let’s build a better Armenia together.
+
+Credit: 
+
+References:
+
+http://cyborganthropology.com/Hyperstition
